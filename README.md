@@ -1,7 +1,7 @@
 ### 嗨👋
 我是AS Allen Shih(Allen Shih)
-台北市立蘭雅國中九年級
-JS Python渣渣(一堆大佬
+<br>台北市立蘭雅國中九年級
+<br>JS Python渣渣(一堆大佬
 ### Hi
 <!--
 **ASAllenShih/ASAllenShih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
