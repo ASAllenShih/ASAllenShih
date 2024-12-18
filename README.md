@@ -1,6 +1,6 @@
 ### 嗨👋
 我是AS Allen Shih(Allen Shih)
-<br><a href="https://www.sssh.tp.edu.tw/">臺北市立松山高級中學</a>一年級
+<br><a href="https://www.sssh.tp.edu.tw/">臺北市立松山高級中學</a>學生
 <br>JS Python渣渣(一堆大佬
 <br>[ASTS]Allen伺服器 <a href="https://www.asts.tw/">https://www.asts.tw/</a>
 ### Hi
